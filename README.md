@@ -8,13 +8,13 @@ Re.Wind is an immersive emotional storytelling prototype for Apple Vision Pro. I
 
 ### The problem
 
-The project responds to a challenge described in its design research: children undergoing cancer treatment may experience fatigue, reduced movement and a sense of disconnection from everyday childhood experiences. Re.Wind explores whether the warmth of familiar places, family voices and meaningful routines can offer a more personal reason to move.
+For children undergoing cancer treatment, fatigue and time away from familiar routines can make the warmth and freedom of childhood feel distant. Re.Wind brings everyday moments of home into an immersive story, using family voices, familiar surroundings and meaningful activities to offer a personal reason to move.
 
 <br>
 
 ### Who it is designed for
 
-The concept centres on children and adolescents undergoing cancer treatment who experience fatigue and low motivation. It also considers paediatric rehabilitation teams and physiotherapists as potential collaborators in defining appropriate movement goals. This is an academic design and interaction prototype, not a clinically validated rehabilitation tool; the intended audience does not establish suitability for headset use.
+The concept centres on children and adolescents undergoing cancer treatment who experience fatigue and low motivation. It also considers paediatric rehabilitation teams and physiotherapists as potential collaborators in defining appropriate movement goals.
 
 <br>
 
@@ -28,7 +28,7 @@ Users begin in a bedroom and choose a memory from an album. Each memory opens in
 | Decorating the Christmas Tree | Pick up, inspect and hang ornaments | Shoulder and arm reach |
 | Playing Ball with Dad | Catch and return a ball with a virtual father figure | Reaching, grasping and releasing |
 
-The home environment, family audio and memory videos give these movements an emotional context. Gentle transitions connect the activities, while visible prompts help users follow each task. The design aims to support familiarity, choice and motivation; these are design intentions rather than measured clinical outcomes.
+The home environment, family audio and memory videos give these movements an emotional context. Gentle transitions connect the activities, while visible prompts help users follow each task. By placing movement within stories of home and family, Re.Wind aims to make participation feel personal, comforting and purposeful.
 
 <br>
 
@@ -75,8 +75,6 @@ The snapshot excludes previous Git history, authoring files, intermediate export
 
 <br>
 
-### Credits and review notes
+### Credits
 
 Audio sources are listed in [AudioSources.json](REWind_tanqianhui/AudioSources.json) and [AudioCredits.txt](REWind_tanqianhui/AudioCredits.txt). Third-party assets retain their own terms. This repository does not grant a blanket open-source license to the code or assets.
-
-Simulator smoothness does not establish headset performance. This prototype still requires device testing; successful compilation does not guarantee every interaction or frame rate is stable.
