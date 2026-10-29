@@ -1,12 +1,12 @@
-# RE.Wind
+# Re.Wind
 
 **Memories move you forward.**
 
-RE.Wind is an Apple Vision Pro prototype that turns familiar childhood memories into guided movement activities. Built with SwiftUI, RealityKit and hand tracking, it invites users into a virtual home to prepare breakfast, decorate a Christmas tree and play ball with Dad.
+Re.Wind is an immersive emotional storytelling prototype for Apple Vision Pro. It invites users to reconnect with the warmth of home and family through familiar childhood memories: preparing breakfast, decorating a Christmas tree and playing ball with Dad. Each story unfolds through gentle, guided movement, giving everyday actions a personal meaning.
 
 ## The problem
 
-The project responds to a challenge described in its design research: children undergoing cancer treatment may experience fatigue, reduced movement and a sense of disconnection from everyday childhood experiences. RE.Wind explores whether the warmth of familiar places, family voices and meaningful routines can offer a more personal reason to move.
+The project responds to a challenge described in its design research: children undergoing cancer treatment may experience fatigue, reduced movement and a sense of disconnection from everyday childhood experiences. Re.Wind explores whether the warmth of familiar places, family voices and meaningful routines can offer a more personal reason to move.
 
 ## Who it is designed for
 
