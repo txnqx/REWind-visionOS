@@ -1,0 +1,1 @@
+The licensed USDZ assets are intentionally not included in this public source snapshot. See ASSET_SETUP.md and ASSET_MANIFEST.json at the repository root.

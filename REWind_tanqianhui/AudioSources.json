@@ -1,0 +1,74 @@
+[
+  {
+    "file": "CerealPour.wav",
+    "page": "https://freesound.org/people/swordofkings128/sounds/398027/",
+    "license": "CC0 1.0",
+    "source": "https://cdn.freesound.org/previews/398/398027_7586736-hq.mp3"
+  },
+  {
+    "file": "Leaves.wav",
+    "page": "https://freesound.org/people/o_ciz/sounds/475448/",
+    "license": "CC0 1.0",
+    "source": "https://cdn.freesound.org/previews/475/475448_7009965-hq.mp3",
+    "runtimeFile": "Leaves.m4a",
+    "processing": "24 kHz mono AAC; corrected source level; 1.2-second overlap crossfade across loop seam; room spatial gain applied at playback.",
+    "playback": "Outdoors only; fades in during porch exit, fades out on entry."
+  },
+  {
+    "file": "Cutlery.wav",
+    "page": "https://freesound.org/people/keweldog/sounds/181716/",
+    "license": "CC0 1.0",
+    "source": "https://cdn.freesound.org/previews/181/181716_3153523-hq.mp3",
+    "playback": "Separate spoon emitter at -16 dB source gain; mixed beneath wet cereal/milk stirring."
+  },
+  {
+    "file": "MilkPour.wav",
+    "page": "https://freesound.org/people/hz37/sounds/792302/",
+    "license": "CC0 1.0",
+    "source": "https://cdn.freesound.org/previews/792/792302_123355-hq.mp3"
+  },
+  {
+    "file": "Mixing.m4a",
+    "page": "https://freesound.org/people/sraburns1/sounds/634433/",
+    "license": "CC0 1.0",
+    "processing": "24 kHz mono AAC; quiet source raised 12 dB with peak limiting, then restrained spatial playback gain.",
+    "playback": "Separate spoon emitter at +7 dB source gain; gesture-driven with short release smoothing."
+  },
+  {
+    "file": "KitchenConversation.m4a",
+    "page": "https://freesound.org/people/milcahrawr/sounds/814973/",
+    "license": "CC0 1.0",
+    "note": "Natural two-woman Tagalog recording, filtered distant ambience; not scripted family dialogue.",
+    "playback": "User-approved natural non-English fallback; one playback per run; -18 dB spatial gain."
+  },
+  {
+    "file": "DadEncouragement.m4a",
+    "page": "https://freesound.org/people/daehedon/sounds/340360/",
+    "source": "https://cdn.freesound.org/previews/340/340360_5205523-lq.mp3",
+    "license": "CC0 1.0",
+    "note": "Human English male recording: Well done. Filtered to sound distant; 24 kHz mono AAC, playback spatialized at Dad.",
+    "playback": "Existing natural English recording retained at -16 dB source gain; once per ball activity, not each catch."
+  },
+  {
+    "file": "ChristmasPiano.m4a",
+    "title": "Silent Night",
+    "author": "Kevin MacLeod (incompetech.com)",
+    "page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100075",
+    "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Silent%20Night.mp3",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+    "processing": "Mono AAC 80 kbps; loudness normalized; gentle endpoint fades. Full performance.",
+    "playback": "-12 dB source gain indoors; crossfades at porch doorway and pauses fully outdoors."
+  },
+  {
+    "file": "BallCatch.m4a",
+    "note": "Original designed 0.32-second damped rubber membrane grip with brief low friction creak. Distinct from the unchanged BallPass throw effect."
+  },
+  {
+    "file": "Twinkle.wav",
+    "runtimeFile": "Twinkle.m4a",
+    "source": "Existing project sound asset; original provenance unchanged.",
+    "processing": "Existing twinkle trimmed from 24 seconds to its first audible 2.6-second phrase, with 15 ms onset and 800 ms tail fades. Original preserved in oct9-device-followup/Twinkle.before.m4a.",
+    "playback": "Single quiet completion cue, -16 dB source gain."
+  }
+]

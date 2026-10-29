@@ -1,0 +1,76 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode user-specific state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+
+# Xcode build products
+build/
+DerivedData/
+*.ipa
+*.xcarchive
+*.dSYM
+*.dSYM.zip
+*.hmap
+
+# Swift Package Manager generated content
+.build/
+.swiftpm/xcode/xcuserdata/
+
+# Reality Composer Pro user-specific state
+*.rcuserdata
+
+# Blender backup and temporary files
+*.blend1
+*.blend2
+*.blend@
+*.blend.lock
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Blender source tree — large local-only working files.
+# Never pushed: no paid Git LFS storage for these. Only validated
+# USDZ candidates under Packages/ are tracked (via Git LFS).
+Blender/Source/
+Blender/VisionPro/
+Blender/Textures/
+Blender/Exports/
+Diagnostics/
+
+# Raw unzip staging area and original archive — not part of the
+# tracked project structure.
+_incoming_blender/
+REWIND.zip
+
+# Credentials, local tools, and private review artifacts
+.mcp.json
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+*.provisionprofile
+*.xcresult
+*.trace
+
+# Licensed models and derived lighting data stay local until redistribution is permitted.
+*.usdz
+*.usdc
+*.blend
+REWind_tanqianhui/*.hdr
+REWind_tanqianhui/REWind*Indirect.png
