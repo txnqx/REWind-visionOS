@@ -32,6 +32,16 @@ The home environment, family audio and memory videos give these movements an emo
 
 <br>
 
+### A more personal world of memories
+
+Re.Wind’s future vision is an experience shaped around each child’s own home, family and memories. Apple technologies and future AI capabilities could extend personalisation beyond the current stories, helping transform familiar places and cherished moments into immersive spatial activities.
+
+With [RoomPlan](https://developer.apple.com/augmented-reality/roomplan/), families could scan rooms using a compatible LiDAR-equipped iPhone or iPad, providing a structured 3D layout as the foundation for recreating a child’s home. Through [PhotoKit](https://developer.apple.com/documentation/PhotoKit), families could choose to share their own photos and Live Photos, bringing personal visual references and moments into the experience.
+
+Future AI-assisted tools could help turn these scans and family-selected memories into spatial scenes, suggest familiar objects and build activities around moments that matter to the child. Imagine preparing breakfast in a recreation of their own kitchen, or decorating a tree inspired by a family Christmas captured in a Live Photo. These are future directions for Re.Wind: a way to make every story feel more recognisable, emotionally meaningful and uniquely theirs.
+
+<br>
+
 ### Technology and project status
 
 - SwiftUI for the home interface, memory album and activity guidance.
